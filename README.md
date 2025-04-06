@@ -1,5 +1,5 @@
 # Gestational-Diabetes-Prediction-System
-egnaSafe: Gestational Diabetes Prediction System
+
 
  This is a machine learning-powered web application that predicts the risk of Gestational Diabetes Mellitus (GDM) in pregnant women. This tool is designed to assist healthcare workers and pregnant individuals by providing early warnings and promoting informed medical follow-ups.
 
