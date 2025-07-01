@@ -1,0 +1,11 @@
+Medication,Type,Dosage,Frequency,Side Effects
+Metformin,Oral,500mg,2 times/day,"Nausea, diarrhea"
+Insulin Glargine,Injection,10 units,Once daily,"Weight gain, low blood sugar"
+Glipizide,Oral,5mg,Once daily,"Low blood sugar, weight gain"
+Sitagliptin,Oral,100mg,Once daily,"Headache, cold-like symptoms"
+Empagliflozin,Oral,10mg,Once daily,"Frequent urination, dehydration"
+Pioglitazone,Oral,15mg,Once daily,"Swelling, weight gain"
+Dulaglutide,Injection,1.5mg,Once weekly,"Nausea, vomiting"
+Liraglutide,Injection,1.2mg,Once daily,"Nausea, pancreatitis risk"
+Acarbose,Oral,50mg,3 times/day,"Gas, stomach pain"
+Canagliflozin,Oral,100mg,Once daily,"Urinary infections, dehydration"
